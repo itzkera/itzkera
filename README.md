@@ -22,9 +22,4 @@ Hey there! I'm **Kera**, a **14-year-old developer**
 
 
 
-## 📫 Connect with me
-*(Add your links here later — GitHub, Discord, etc.)*
 
----
-
-⭐ **“Code. Learn. Build. Repeat.”**
