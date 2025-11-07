@@ -1,6 +1,6 @@
 # Hi, I'm Kera!
 
-Hey there! I'm **Kera**, a developer**
+**Hey there! I'm **Kera**, a developer**
 
 ---
 
