@@ -7,6 +7,9 @@
 
 ---
 
+[![Discord status](https://dsc-readme.tsuni.dev/api/user/569305207947788289?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+---
+
 
 # Langs i Know!
 
