@@ -3,8 +3,7 @@
 **Hey There, Im **Kera**, a developer**
 
 --- 
-![github stats](https://github-stats-alpha.vercel.app/api?username=itzkera)
-
+![github stats](https://github-stats-alpha.vercel.app/api?username=itzkera&cc=000&tc=fff&ic=fff&bc=000)
 ---
 
 [![Discord status](https://dsc-readme.tsuni.dev/api/user/569305207947788289?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/TetraTsunami/discord-github-preview)
